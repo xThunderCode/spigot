@@ -1,0 +1,6 @@
+name: AntiESP
+version: 1.0
+main: me.thundercode.antiesp.main.AntiESP
+api-version: 1.13
+commands:
+ esp:

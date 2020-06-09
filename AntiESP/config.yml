@@ -1,0 +1,14 @@
+# AntiESP configuration file
+values:
+  renderDistance: 50
+  tickRate: 20
+world:
+  loadChunks: true
+  unloadChunks: true
+blocks:
+  defaultChest: true
+  enderChest: true
+  trappedChest: true
+  defaultBarrel: false
+  defaultSpawner: false
+  defaultFurnace: false
